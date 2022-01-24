@@ -1,0 +1,128 @@
+{
+    "tweets": {
+        "tweet1": {
+            "tweets": [
+                {
+                    "user": {
+                        "avatar": "username0.jpg",
+                        "name": "username0",
+                        "handle": "username0"
+                    },
+                    "createdAt": "21.02.2022",
+                    "tweet": "tweet-1",
+                    "stats": {
+                        "likes": 6,
+                        "comments": 2,
+                        "retweets": 4
+                    }
+                },
+                {
+                    "user": {
+                        "avatar": "username0.jpg",
+                        "name": "username0",
+                        "handle": "username0"
+                    },
+                    "createdAt": "21.03.2021",
+                    "tweet": "tweet-2",
+                    "stats": {
+                        "likes": 6,
+                        "comments": 3,
+                        "retweets": 5
+                    }
+                },
+                {
+                    "user": {
+                        "avatar": "username0.jpg",
+                        "name": "username0",
+                        "handle": "username0"
+                    },
+                    "createdAt": "21.03.2021",
+                    "tweet": "tweet-3",
+                    "stats": {
+                        "likes": 6,
+                        "comments": 2,
+                        "retweets": 8
+                    }
+                },
+                {
+                    "user": {
+                        "avatar": "username0.jpg",
+                        "name": "username0",
+                        "handle": "username0"
+                    },
+                    "createdAt": "21.03.2021",
+                    "tweet": "tweet-4",
+                    "stats": {
+                        "likes": 8,
+                        "comments": 1,
+                        "retweets": 0
+                    }
+                }
+            ]
+        },
+        "tweet2": {
+            "tweets": [
+                {
+                    "user": {
+                        "avatar": "username1.jpg",
+                        "name": "username1",
+                        "handle": "username1"
+                    },
+                    "createdAt": "20.10.2010",
+                    "tweet": "tweet-1",
+                    "stats": {
+                        "likes": 5,
+                        "comments": 5,
+                        "retweets": 5
+                    }
+                },
+                {
+                    "user": {
+                        "avatar": "username1.jpg",
+                        "name": "username1",
+                        "handle": "username1"
+                    },
+                    "createdAt": "20.10.2010",
+                    "tweet": "tweet-2",
+                    "stats": {
+                        "likes": 5,
+                        "comments": 5,
+                        "retweets": 5
+                    }
+                },
+                {
+                    "user": {
+                        "avatar": "username1.jpg",
+                        "name": "username1",
+                        "handle": "username1"
+                    },
+                    "createdAt": "20.10.2010",
+                    "tweet": "tweet-3",
+                    "stats": {
+                        "likes": 5,
+                        "comments": 5,
+                        "retweets": 5
+                    }
+                }
+            ]
+        },
+        "tweet3": {
+            "tweets": [
+                {
+                    "user": {
+                        "avatar": "username2.jpg",
+                        "name": "username2",
+                        "handle": "username2"
+                    },
+                    "createdAt": "20.10.2005",
+                    "tweet": "tweet-1",
+                    "stats": {
+                        "likes": 52,
+                        "comments": 5,
+                        "retweets": 10
+                    }
+                }
+            ]
+        }
+    }
+}
